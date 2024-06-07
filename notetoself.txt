@@ -1,0 +1,16 @@
+features to implement:
+
+1. expectation chart's ui needs upgrade, first line is today, second line is any chosen day by user within some days.
+
+2. options ranking fixed, use less dramatic values due to not enough volume traded.
+
+3. sector performance improvement, when clicked on, show some industry info + options focused insight, like option iv skew or oi.
+
+4. stock page needs iv/hv charts and iv smile.
+
+5. 2 oi charts, 1 is historical data on total OI on put/calls, example: yesterday 2000 OI, today has 20k OI, can show in $ or number of contracts.
+the other one is current OI visuals, from ATM to OTM, y axis can be the amount (in $ or amount)
+
+6. option summary in the overview page now should be available for all individual stocks, numbers shown in K, or M
+
+7. also in overview, the ITM/OTM ratios, of volume or oi, etc.. improve and add to individual stocks too.
