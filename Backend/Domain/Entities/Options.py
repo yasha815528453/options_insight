@@ -12,3 +12,7 @@ class Option:
 
         if some value idk..
         return True...
+
+class Call(Option):
+
+class Put(Options):
